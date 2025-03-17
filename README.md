@@ -30,7 +30,7 @@ LLM chat bot to use CrewAI
 
 (3) CrewAI 설치
 - 언어 모델의 API 관리를 편리하게 도와주는 라이브러리
-- 모델 - 클로드, 젬미니, GPT3.5, GPT4o ..... => import OpenAI // 언어마다 SDK를 다운받아줘야해요.
+- 모델 - 클로드, 제미니, GPT3.5, GPT4o ..... => import OpenAI // 언어마다 SDK를 다운받아줘야해요.
   => CrewAI, LangChain이 이미 다 SDK구현을 끝내놓음.
   => LangChain 안하고 왜 CrewAI 하나요? => 가벼워서요. (러닝 커브가 낮아서요.)
 
